@@ -1,0 +1,59 @@
+{
+	"menu_items":[
+	{
+		"id":877,
+		"short_name":"A1",
+		"name":"smth 1",
+		"description":"some desc",
+		"price_small":2.55,
+		"price_large":5.0,
+		"small_portion_name":"pint",
+		"large_portion_name":"quart"
+	},
+	{
+		"id":877,
+		"short_name":"A2",
+		"name":"smth 1",
+		"description":"some desc",
+		"price_small":2.55,
+		"price_large":5.0,
+		"small_portion_name":"pint",
+		"large_portion_name":"quart"
+	},
+	{
+		"id":877,
+		"short_name":"A3",
+		"name":"smth 1",
+		"description":"some desc",
+		"price_small":2.55,
+		"price_large":5.0,
+		"small_portion_name":"pint",
+		"large_portion_name":"quart"
+	},
+	{
+		"id":877,
+		"short_name":"A4",
+		"name":"smth 1",
+		"description":"some desc",
+		"price_small":2.55,
+		"price_large":5.0,
+		"small_portion_name":"pint",
+		"large_portion_name":"quart"
+	},
+	{
+		"id":877,
+		"short_name":"A5",
+		"name":"smth 1",
+		"description":"some desc",
+		"price_small":2.55,
+		"price_large":5.0,
+		"small_portion_name":"pint",
+		"large_portion_name":"quart"
+	}	
+	],
+	"category":{
+		"short_name":"A",
+		"name":"Nescafe",
+		"special_instructions":""
+	}
+}

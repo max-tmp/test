@@ -1,0 +1,23 @@
+﻿[
+	{
+		"id":81,
+		"short_name":"L",
+		"name":"Buondi",
+		"special_instructions":"some description",
+		"url":"data/categories/81.json"
+	},
+	{
+		"id":82,
+		"short_name":"A",
+		"name":"NESCAFE",
+		"special_instructions":"some description",
+		"url":"data/categories/82.json"
+	},
+	{
+		"id":83,
+		"short_name":"B",
+		"name":"Оборудование",
+		"special_instructions":"some description",
+		"url":"data/categories/83.json"
+	}
+]

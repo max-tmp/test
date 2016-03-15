@@ -1,0 +1,68 @@
+﻿{"menu_items":[
+	{
+		"id":888,
+		"short_name":"B1",
+		"name":"some item",
+		"description":"some description",
+		"price_small":null,
+		"price_large":3.0,
+		"small_portion_name":null,
+		"large_portion_name":null
+	},
+	{
+		"id":888,
+		"short_name":"B2",
+		"name":"some item",
+		"description":"some description",
+		"price_small":null,
+		"price_large":3.0,
+		"small_portion_name":null,
+		"large_portion_name":null
+	},
+	{
+		"id":888,
+		"short_name":"B3",
+		"name":"some item",
+		"description":"some description",
+		"price_small":null,
+		"price_large":3.0,
+		"small_portion_name":null,
+		"large_portion_name":null
+	},
+	{
+		"id":888,
+		"short_name":"B4",
+		"name":"some item",
+		"description":"some description",
+		"price_small":null,
+		"price_large":3.0,
+		"small_portion_name":null,
+		"large_portion_name":null
+	},
+	{
+		"id":888,
+		"short_name":"B5",
+		"name":"some item",
+		"description":"some description",
+		"price_small":null,
+		"price_large":3.0,
+		"small_portion_name":null,
+		"large_portion_name":null
+	},
+	{
+		"id":888,
+		"short_name":"B6",
+		"name":"some item",
+		"description":"some description",
+		"price_small":null,
+		"price_large":3.0,
+		"small_portion_name":null,
+		"large_portion_name":null
+	}
+	],
+	"category":{
+		"short_name":"B",
+		"name":"Оборудование",
+		"special_instructions":""
+	}
+}
