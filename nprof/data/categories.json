@@ -19,5 +19,12 @@
 		"name":"Оборудование",
 		"special_instructions":"some description",
 		"url":"data/categories/83.json"
+	},
+	{
+		"id":84,
+		"short_name":"N",
+		"name":"Оборудование 2",
+		"special_instructions":"some description",
+		"url":"data/categories/84.json"
 	}
 ]
